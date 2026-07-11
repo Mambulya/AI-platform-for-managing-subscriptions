@@ -1,0 +1,137 @@
+[
+    {
+        "id": "a1b2c3d4-t1",
+        "title": "Netflix",
+        "amount": 9.99,
+        "currency": "USD",
+        "category": "Entertainment",
+        "next_payment_date": "2025-07-10",
+        "status": "active"
+    },
+    {
+        "id": "e5f6g7h8-t2",
+        "title": "СберПрайм",
+        "amount": 399,
+        "currency": "RUB",
+        "category": "Finance",
+        "next_payment_date": "2025-07-15",
+        "status": "active"
+    },
+    {
+        "id": "i9j0k1l2-t3",
+        "title": "Quizlet Plus",
+        "amount": 8.99,
+        "currency": "USD",
+        "category": "Productivity",
+        "next_payment_date": "2025-07-09",
+        "status": "active"
+    },
+    {
+        "id": "m3n4o5p6-t4",
+        "title": "Amazon Prime",
+        "amount": 12.99,
+        "currency": "USD",
+        "category": "Shopping",
+        "next_payment_date": "2025-07-25",
+        "status": "deactivated"
+    },
+    {
+        "id": "q7r8s9t0-t5",
+        "title": "Wink",
+        "amount": 139,
+        "currency": "RUB",
+        "category": "Entertainment",
+        "next_payment_date": "2025-07-30",
+        "status": "active"
+    },
+    {
+        "id": "u1v2w3x4-t6",
+        "title": "Disney+",
+        "amount": 7.99,
+        "currency": "USD",
+        "category": "Entertainment",
+        "next_payment_date": "2025-07-10",
+        "status": "deactivated"
+    },
+    {
+        "id": "y5z6a7b8-t7",
+        "title": "Microsoft 365",
+        "amount": 9.99,
+        "currency": "USD",
+        "category": "Productivity",
+        "next_payment_date": "2025-08-10",
+        "status": "active"
+    },
+    {
+        "id": "c9d0e1f2-t8",
+        "title": "YouTube Premium",
+        "amount": 11.99,
+        "currency": "USD",
+        "category": "Entertainment",
+        "next_payment_date": "2025-08-01",
+        "status": "deactivated"
+    },
+    {
+        "id": "g3h4i5j6-t9",
+        "title": "PremiereRutube",
+        "amount": 399,
+        "currency": "RUB",
+        "category": "Entertainment",
+        "next_payment_date": "2025-07-21",
+        "status": "active"
+    },
+    {
+        "id": "k7l8m9n0-t10",
+        "title": "Apple Music",
+        "amount": 9.99,
+        "currency": "USD",
+        "category": "Music",
+        "next_payment_date": "2025-07-24",
+        "status": "active"
+    },
+    {
+        "id": "o1p2q3r4-t11",
+        "title": "Tidal",
+        "amount": 15.99,
+        "currency": "EUR",
+        "category": "Music",
+        "next_payment_date": "2025-08-02",
+        "status": "active"
+    },
+    {
+        "id": "s5t6u7v8-t12",
+        "title": "LinkedIn Premium",
+        "amount": 29.99,
+        "currency": "USD",
+        "category": "Professional Networking",
+        "next_payment_date": "2025-09-05",
+        "status": "active"
+    },
+    {
+        "id": "w9x0y1z2-t13",
+        "title": "SteamPass",
+        "amount": 399,
+        "currency": "RUB",
+        "category": "Gaming",
+        "next_payment_date": "2025-09-10",
+        "status": "deactivated"
+    },
+    {
+        "id": "a3b4c5d6-t14",
+        "title": "Evernote",
+        "amount": 7.99,
+        "currency": "USD",
+        "category": "Productivity",
+        "next_payment_date": "2025-08-03",
+        "status": "active"
+    },
+    {
+        "id": "e7f8g9h0-t15",
+        "title": "Canva Pro",
+        "amount": 12.99,
+        "currency": "USD",
+        "category": "Productivity",
+        "next_payment_date": "2025-07-20",
+        "status": "active"
+    }
+]

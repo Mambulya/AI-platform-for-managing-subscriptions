@@ -1,0 +1,110 @@
+[
+    {
+        "id": "cfks7si2-s2",
+        "title": "СберПрайм",
+        "amount": 399,
+        "currency": "RUB",
+        "category": "Finance",
+        "next_payment_date": "2025-08-03",
+        "status": "active"
+    },
+    {
+        "id": "db45sj2j-s5",
+        "title": "GigaChat2-Max",
+        "amount": 1950,
+        "currency": "RUB",
+        "category": "Productivity",
+        "next_payment_date": "2025-08-02",
+        "status": "active"
+    },
+    {
+        "id": "d90247sd-s2",
+        "title": "Netflix",
+        "amount": 9.99,
+        "currency": "USD",
+        "category": "Entertainment",
+        "next_payment_date": "2025-07-29",
+        "status": "active"
+    },
+    {
+        "id": "e3f4g5h6-s3",
+        "title": "ChatGPT Plus",
+        "amount": 9.99,
+        "currency": "EUR",
+        "category": "Productivity",
+        "next_payment_date": "2025-08-01",
+        "status": "active"
+    },
+    {
+        "id": "f7g8h9i0-s4",
+        "title": "GitHub Pro",
+        "amount": 7.99,
+        "currency": "USD",
+        "category": "Productivity",
+        "next_payment_date": "2025-08-05",
+        "status": "active"
+    },
+    {
+        "id": "g1h2i3j4-s5",
+        "title": "Telegram Premium",
+        "amount": 299,
+        "currency": "RUB",
+        "category": "Communication",
+        "next_payment_date": "2025-08-10",
+        "status": "active"
+    },
+    {
+        "id": "h5i6j7k8-s6",
+        "title": "Spotify",
+        "amount": 9.99,
+        "currency": "USD",
+        "category": "Music",
+        "next_payment_date": "2025-08-15",
+        "status": "active"
+    },
+    {
+        "id": "i9j0k1l2-s7",
+        "title": "YouTube Premium",
+        "amount": 11.99,
+        "currency": "USD",
+        "category": "Entertainment",
+        "next_payment_date": "2025-08-20",
+        "status": "active"
+    },
+    {
+        "id": "j3k4l5m6-s8",
+        "title": "Adobe Creative Cloud",
+        "amount": 40.99,
+        "currency": "GBR",
+        "category": "Productivity",
+        "next_payment_date": "2025-08-25",
+        "status": "active"
+    },
+    {
+        "id": "k7l8m9n0-s9",
+        "title": "Amazon Prime Video",
+        "amount": 32.99,
+        "currency": "CNY",
+        "category": "Entertainment",
+        "next_payment_date": "2025-08-30",
+        "status": "active"
+    },
+    {
+        "id": "o3p4q5r6-s13",
+        "title": "Zoom Pro",
+        "amount": 14.99,
+        "currency": "USD",
+        "category": "Communication",
+        "next_payment_date": "2025-09-20",
+        "status": "deactivated"
+    },
+    {
+        "id": "p7q8r9s0-s14",
+        "title": "Notion Personal Pro",
+        "amount": 85.99,
+        "currency": "KZT",
+        "category": "Productivity",
+        "next_payment_date": "2025-09-25",
+        "status": "active"
+    }
+]

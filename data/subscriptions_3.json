@@ -1,0 +1,128 @@
+[
+    {
+        "id": "p7fh45d7-s1",
+        "title": "Notion Personal Pro",
+        "amount": 12.99,
+        "currency": "EUR",
+        "category": "Productivity",
+        "next_payment_date": "2025-07-18",
+        "status": "active"
+    },
+    {
+        "id": "q8g9h0i1-s2",
+        "title": "Todoist Premium",
+        "amount": 4.99,
+        "currency": "USD",
+        "category": "Productivity",
+        "next_payment_date": "2025-07-22",
+        "status": "deactivated"
+    },
+    {
+        "id": "r2s3t4u5-s3",
+        "title": "Microsoft 365 Personal",
+        "amount": 69.99,
+        "currency": "USD",
+        "category": "Productivity",
+        "next_payment_date": "2025-07-25",
+        "status": "active"
+    },
+    {
+        "id": "s6t7u8v9-s4",
+        "title": "YouTube Premium",
+        "amount": 11.99,
+        "currency": "USD",
+        "category": "Entertainment",
+        "next_payment_date": "2025-07-30",
+        "status": "deactivated"
+    },
+    {
+        "id": "t0u1v2w3-s5",
+        "title": "Spotify Premium",
+        "amount": 9.99,
+        "currency": "USD",
+        "category": "Music",
+        "next_payment_date": "2025-08-05",
+        "status": "active"
+    },
+    {
+        "id": "u4v5w6x7-s6",
+        "title": "Adobe Creative Cloud",
+        "amount": 52.99,
+        "currency": "USD",
+        "category": "Productivity",
+        "next_payment_date": "2025-08-10",
+        "status": "active"
+    },
+    {
+        "id": "v8w9x0y1-s7",
+        "title": "Amazon Prime Video",
+        "amount": 12.99,
+        "currency": "USD",
+        "category": "Entertainment",
+        "next_payment_date": "2025-08-15",
+        "status": "deactivated"
+    },
+    {
+        "id": "w2x3y4z5-s8",
+        "title": "Wink",
+        "amount": 139,
+        "currency": "RUB",
+        "category": "Entertainment",
+        "next_payment_date": "2025-08-20",
+        "status": "active"
+    },
+    {
+        "id": "x6y7z8a9-s9",
+        "title": "Quizlet Unlimited",
+        "amount": 12.99,
+        "currency": "USD",
+        "category": "Productivity",
+        "next_payment_date": "2025-08-23",
+        "status": "active"
+    },
+    {
+        "id": "y0z1a2b3-s10",
+        "title": "Telegram Premium",
+        "amount": 299,
+        "currency": "RUB",
+        "category": "Communication",
+        "next_payment_date": "2025-08-28",
+        "status": "deactivated"
+    },
+    {
+        "id": "z4a5b6c7-s11",
+        "title": "Notion Personal Pro",
+        "amount": 12.99,
+        "currency": "EUR",
+        "category": "Gaming",
+        "next_payment_date": "2025-07-27",
+        "status": "active"
+    },
+    {
+        "id": "a8b9c0d1-s12",
+        "title": "Strava Premium",
+        "amount": 1399,
+        "currency": "RUB",
+        "category": "Fitness",
+        "next_payment_date": "2025-08-01",
+        "status": "active"
+    },
+    {
+        "id": "b2c3d4e5-s13",
+        "title": "Duolingo Plus",
+        "amount": 6.99,
+        "currency": "USD",
+        "category": "Education",
+        "next_payment_date": "2025-08-05",
+        "status": "active"
+    },
+    {
+        "id": "c6d7e8f9-s14",
+        "title": "Coursera Plus",
+        "amount": 399,
+        "currency": "USD",
+        "category": "Education",
+        "next_payment_date": "2025-08-10",
+        "status": "deactivated"
+    }
+]
