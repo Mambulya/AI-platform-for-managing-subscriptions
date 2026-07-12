@@ -44,3 +44,5 @@ if __name__ == "__main__":
             break
         except TypeError as notInformedError:
             write_in_frame(message="x У модели нет достаточно сведений для этого запроса")
+        except UnicodeEncodeError as unicodeError:
+            write_in_frame(message="x Встретился символ, который не удается закодировать. Пожалуйста, перефразируйте вопрос")
