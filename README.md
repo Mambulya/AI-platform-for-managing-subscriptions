@@ -18,7 +18,6 @@ MVP for Sber internship
 |           |–currency.py                  # convert_currency(amount, from_currency, to_currency)         
 |           |–finish.py                    
 |           |-obligations.py               # get_obligations(status, category)
-|       |–.env
 |       |–agent.py
 |       |–config.py
 |       |–logger.py
@@ -28,6 +27,7 @@ MVP for Sber internship
 |       |–__init__.py
 |       |-test_currency.py
 |       |–test_obligations.py
+|–––.env
 |–––Dockerfile
 |–––README.md
 |–––requirements.txt

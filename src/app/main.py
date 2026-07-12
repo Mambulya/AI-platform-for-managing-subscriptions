@@ -1,6 +1,6 @@
 import openai
 from agent import agent
-from agent import Logger
+from agent import Logger, logger
 from config import YELLOW, RESET
 
 
@@ -31,8 +31,6 @@ if __name__ == "__main__":
             if any(stop_word in user_message.lower() for stop_word in STOP_KEYWORDS):
                 write_in_frame(message="Чат закрыт")
                 break
-
-            logger = Logger()
             response = agent.invoke({"messages":[{"role":"user", "content":user_message}]}, config={"callbacks": [logger]})
             last_message = response["messages"][-1]
 

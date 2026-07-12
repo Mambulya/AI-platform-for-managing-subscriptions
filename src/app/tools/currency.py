@@ -40,7 +40,7 @@ def _convert_currency(amount: float, from_currency: str, to_currency: str) -> fl
         print(f"Произошла ошибка при выполнении запроса: {e}")
         return -1.0
 
-@tool(description="Переводит номинал одной валюты в другую")
+@tool(description="Converts amount to another currency")
 def convert_currency(amount: float, from_currency: str, to_currency: str) -> float:
     """
     Transfer face value from one currency to another currency

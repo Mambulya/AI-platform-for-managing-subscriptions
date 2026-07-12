@@ -21,7 +21,7 @@ def _get_obligations(path:str=FILE_1, status:str=None, category:str=None) -> lis
     :returns: список подписок пользователя
     """
     subscriptions = []
-    with open(path, 'r') as file:
+    with open(path, 'r', encoding="utf-8") as file:
         all_subs = json.load(file)
 
         if status == None and category == None:
@@ -41,7 +41,7 @@ def _get_obligations(path:str=FILE_1, status:str=None, category:str=None) -> lis
                           subscriptions.append(sub)
     return subscriptions
 
-@tool(description=" Считывает информацию о подписках")
+@tool(description="Gets information about subscriptions")
 def get_obligations(status:str=None, category:str=None) -> list:
     """
     Get the inforamtion about the user's subscriptions
