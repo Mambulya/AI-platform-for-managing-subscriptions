@@ -1,4 +1,4 @@
-# AI-platform-for-managing-personal-subscriptions-and-regular-payments
+# AI platform for managing personal subscriptions and regular payments
 MVP for Sber internship 
 
 AI-платформа для управления личными финансами в виде подписок на сервисы. Цель проекта — избавить пользователя от рутины ручных подсчетов в Excel и калькуляторе, предоставив интеллектуального агента, способного анализировать расходы на подписки и регулярные платежи на естественном языке.
