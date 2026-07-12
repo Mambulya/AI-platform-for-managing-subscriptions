@@ -29,6 +29,7 @@ MVP for Sber internship
 |       |–test_obligations.py
 |–––.env
 |–––Dockerfile
+|–––docker-compose.yaml
 |–––README.md
 |–––requirements.txt
 ```
