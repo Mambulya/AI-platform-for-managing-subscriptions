@@ -1,0 +1,28 @@
+services:
+  agent:
+    build: .
+    env_file:
+      - .env
+    stdin_open: true
+    tty: true
+    command: python3 src/app/main.py
+
+  tests:
+    build: .
+    env_file:
+      - .env
+    command: pytest src/tests
+
+  test_currency_tool:
+    build: .
+    env_file:
+      - .env
+    command: python3 src/tests/test_currency.py
+
+  test_obligations_tool:
+    build: .
+    env_file:
+      - .env
+    command: python3 src/tests/test_obligations.py
+
+  
