@@ -15,7 +15,7 @@ MVP for Sber internship
 |       |–__init__.py
 |       |–tools
 |           |–__init__.py
-|           |–currency.py                  # convert_currency(amount, from_currency, to_currency)         
+|           |–currency.py                  # convert_currency(amount, from_currency, to_currency)
 |           |–finish.py                    
 |           |-obligations.py               # get_obligations(status, category)
 |       |–agent.py
