@@ -28,6 +28,8 @@ MVP for Sber internship
 |       |-test_currency.py
 |       |–test_obligations.py
 |–––.env
+|–––.gitignore
+|–––.dockerignore
 |–––Dockerfile
 |–––docker-compose.yaml
 |–––README.md
