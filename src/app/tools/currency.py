@@ -5,7 +5,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 
 from langchain.tools import tool
 
-from config import EXCHANGE_KEY
+from config import EXCHANGE_API_KEY
 
 
 def _convert_currency(amount: float, from_currency: str, to_currency: str) -> float:
@@ -25,7 +25,7 @@ def _convert_currency(amount: float, from_currency: str, to_currency: str) -> fl
     if from_currency == to_currency:
         return amount
     
-    url = f"https://v6.exchangerate-api.com/v6/{EXCHANGE_KEY}/latest/{from_currency}"
+    url = f"https://v6.exchangerate-api.com/v6/{EXCHANGE_API_KEY}/latest/{from_currency}"
 
     try:
         response = requests.get(url)

@@ -12,11 +12,8 @@ import pytest
 
 from app.tools.obligations import _get_obligations  
 from app.config import GREEN, RESET
+from app.config import FILE_1, FILE_2, FILE_3
 
-# тестирующие json-файлы
-FILE_1 = "../../data/subscriptions_1.json"
-FILE_2 = "../../data/subscriptions_2.json"
-FILE_3 = "../../data/subscriptions_3.json"
 
 def test_get_obligations():
     test_num = 1
@@ -340,7 +337,7 @@ def test_get_obligations():
     test_num += 1
 
     # тест №3
-    print(f"[{GREEN} RUN      ]{RESET} Test {test_num}")
+    print(f"{GREEN}[ RUN      ]{RESET} Test {test_num}")
     start_time = time.perf_counter()
     assert _get_obligations(path=FILE_3, status="active", category="Communication") == []
     end_time = time.perf_counter()
